@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A Fully functional Trello clone built with html, css, js, ajax, postgreSQL and ruby.
 
-Things you may want to cover:
+Deployed with Heroku at https://trello-mello.herokuapp.com/
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![screenshot1](/public/assets/images/screenshot1.png)
+![screenshot2](/public/assets/images/screenshot2.png)
+![screenshot3](/public/assets/images/screenshot3.png)
