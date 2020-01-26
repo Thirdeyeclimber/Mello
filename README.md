@@ -2,7 +2,7 @@
 
 A Fully functional Trello clone built with html, css, js, ajax, postgreSQL and ruby.
 
-Deployed with Heroku at https://trello-mello.herokuapp.com/
+<h3>Deployed with Heroku at <a href="https://trello-mello.herokuapp.com/">Live Demo</a></h3>
 
 
 ![screenshot2](public/assets/images/ScreenShot2.png)
